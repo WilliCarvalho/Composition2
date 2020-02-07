@@ -1,0 +1,10 @@
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\bin\Debug\netcoreapp2.2\Composition3.deps.json
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\bin\Debug\netcoreapp2.2\Composition3.runtimeconfig.json
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\bin\Debug\netcoreapp2.2\Composition3.runtimeconfig.dev.json
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\bin\Debug\netcoreapp2.2\Composition3.dll
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\bin\Debug\netcoreapp2.2\Composition3.pdb
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\obj\Debug\netcoreapp2.2\Composition3.csprojAssemblyReference.cache
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\obj\Debug\netcoreapp2.2\Composition3.AssemblyInfoInputs.cache
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\obj\Debug\netcoreapp2.2\Composition3.AssemblyInfo.cs
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\obj\Debug\netcoreapp2.2\Composition3.dll
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\Composition2\Composition3\obj\Debug\netcoreapp2.2\Composition3.pdb
